@@ -2,16 +2,17 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Svetlana “Lana” Yarosh is an Associate Professor in the Computer Science & Engineering Department at the University of Minnesota. Her research in HCI focuses on embodied interaction in social computing systems. Lana is currently most proud of graduating her first batch of amazing PhD students, being a writer for CrashCourse AI, and being recognized for her contributions to undergraduate education with a Horace T. Morse Award. Lana has two Bachelors of Science from University of Maryland (in Computer Science and Psychology), a Ph.D. in Human-Centered Computing from Georgia Institute of Technology, and two years of industry research experience with AT&T Labs Research.
 
 #### Email
-sli[at]cumt.edu.cn
+lana[at]umn.edu
 
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2022.
+Ph.D., Human-Centered Computing, Georgia Institute of Technology, 2012 \
+B.S., Psychology, University of Maryland, 2005 \
+B.S., Computer Science, University of Maryland, 2005
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Human-Computer Interaction, Social Computing, Embodied Computing
 
