@@ -1,15 +1,6 @@
 
+#### About Me
 Svetlana “Lana” Yarosh is an Associate Professor in the Computer Science & Engineering Department at the University of Minnesota. Her research in HCI focuses on embodied interaction in social computing systems. Lana is currently most proud of graduating her first batch of amazing PhD students, being a writer for CrashCourse AI, and being recognized for her contributions to undergraduate education with a Horace T. Morse Award. Lana has two Bachelors of Science from University of Maryland (in Computer Science and Psychology), a Ph.D. in Human-Centered Computing from Georgia Institute of Technology, and two years of industry research experience with AT&T Labs Research.
 
-#### Email
-lana[at]umn.edu
-
-
-#### Education
-Ph.D., Human-Centered Computing, Georgia Institute of Technology, 2012 \
-B.S., Psychology, University of Maryland, 2005 \
-B.S., Computer Science, University of Maryland, 2005
-
-#### Research Interests
-Human-Computer Interaction, Social Computing, Embodied Computing
-
+#### About My Research Group
+I run the ProDUCT (Prototyping, Design, and Usability of Communication Technologies) group. As part of the GroupLens Research Center, we are committed to the design and empirical study of social computing systems, with my group frequently adding an embodiment perspective to these investigations (e.g., adding projection and haptics to communication systems). We do work in a variety of contexts, with particularly notable contributions in the areas of Child-Computer Interaction (e.g., supporting intergenerational mentorship in schools), Online Health Communities (e.g., examining social support on CaringBridge.org), and Pervasive Health (e.g., helping people in recovery from substance use disorders get connected with support). Methodologically, we run the gamut from pure qualitative to mixed methods to design-based approaches, though our recent directions frequently include participatory design as an element as well.
