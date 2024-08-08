@@ -1,3 +1,4 @@
+- [Adel Aldawood](https://www.linkedin.com/in/adelaldawood/) (Computer Science Ph.D., 2016 – 2024) - faculty at Imam Mohammad Ibn Saud Islamic University
 - [Juan Fernando Maestre](http://juanfernandomaestre.com/wp/) (Post-Doc, 2022 – 2023) - tenure-track faculty at Swansea University
 - [Zachary Schmitt](https://www.linkedin.com/in/zach-schmitt-43889080/) (Human Factors Ph.D., 2016 – 2022) - advanced analytics consultant at Medtronic
 - [Zachary Levonian](https://www.linkedin.com/in/zachary-levonian-376b56a0/) (Computer Science Ph.D., 2017 – 2022) - senior ML engineer at ConcertAI
