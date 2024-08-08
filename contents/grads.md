@@ -1,0 +1,7 @@
+- [Juan Fernando Maestre](http://juanfernandomaestre.com/wp/) (Post-Doc, 2022 – 2023) - tenure-track faculty at Swansea University
+- [Zachary Schmitt](https://www.linkedin.com/in/zach-schmitt-43889080/) (Human Factors Ph.D., 2016 – 2022) - advanced analytics consultant at Medtronic
+- [Zachary Levonian](https://www.linkedin.com/in/zachary-levonian-376b56a0/) (Computer Science Ph.D., 2017 – 2022) - senior ML engineer at ConcertAI
+- [Irene Yuan](https://ireneyeyuan.me/) (Computer Science Ph.D., 2017 – 2022) - first postdoctoral researcher at Simon Fraser University, now tenure-track faculty at McMaster University
+- [Jasmine Jones](https://www.linkedin.com/in/jazzij/) (Post-Doc, 2017 – 2019) - tenure-track faculty at Berea College
+- [Sabirat Rubya](https://www.linkedin.com/in/sabirat-rubya-654959111/) (Computer Science Ph.D., 2015 – 2020) - tenure-track faculty at Marquette University
+- [Sarah McRoberts](https://www.linkedin.com/in/sarah-mcroberts-788a4978/) (Computer Science Ph.D., 2014 – 2020) - UX researcher at Google
