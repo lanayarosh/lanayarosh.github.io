@@ -1,5 +1,6 @@
 [[Full CV]](https://www.dropbox.com/s/xzfiaxyf6xcuu7i/yarosh-complete-cv.pdf?dl=0)\
 [[Google Scholar]](https://scholar.google.com/citations?user=n6bjh24AAAAJ&hl=en)\
+[[Blog]](https://medium.com/@lanayarosh)\
 [[High Resolution Photo]](https://github.com/lanayarosh/lanayarosh.github.io/blob/main/static/assets/img/highres-headshot.jpg)\
 [[Contact Information]](https://lanayarosh.github.io/#contactme)
 
