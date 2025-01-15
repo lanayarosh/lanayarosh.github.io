@@ -98,6 +98,21 @@ section .main-body{
     z-index: 9000;
 }
 
+#skip a {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+}
+ 
+#skip a:focus {
+    position:static;
+    width:auto;
+    height:auto;
+}
+
 #avatar img {
     height: max(130px,min(200px,calc(100vw/6)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
