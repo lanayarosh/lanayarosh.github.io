@@ -1,6 +1,13 @@
 Most recent list of publications is always available via [Google Scholar](https://scholar.google.com/citations?hl=en&user=n6bjh24AAAAJ&view_op=list_works&sortby=pubdate)
 
+#### 2025
+Judith H. Danovitch, Adam K. Dubé, Cansu Oranç, Jessica Szczuka, and Svetlana Yarosh. 2025. Children’s Understanding and Use of Voice-Assistants: Opportunities and Challenges. In Handbook of Children and Screens: Digital Media, Development, and Well-Being from Birth Through Adolescence, Dimitri A. Christakis and Lauren Hale (eds.). Springer Nature Switzerland, Cham, 619–625. https://doi.org/10.1007/978-3-031-69362-5_84 [[Full Text PDF]](https://www.dropbox.com/scl/fi/rir9wvljnbj33t1j0mam2/2025-Handbook-Children-and-Voice-Assistants.pdf?rlkey=h99x5up506fllfq1l7rlu4him&dl=0)
+
 #### 2024
+Ye Yuan, Qiao Jin, Chelsea Mills, Svetlana Yarosh, and Carman Neustaedter. 2024. Designing Collaborative Technology for Intergenerational Social Play over Distance. Proc. ACM Hum.-Comput. Interact. 8, CSCW 2: 492:1-492:26. https://doi.org/10.1145/3687031 [[Full Text PDF]](https://www.dropbox.com/scl/fi/fx2zp40x9pwm3eb4dlchg/2024-CSCW-Social-Play.pdf?rlkey=gl9ry3oq4v259wrbb65jlzp8v&dl=0)
+
+Summer Schmuecker, Juan Pablo Hourcade, Meryl Alper, Jerry Alan Fails, Saba Kawas, and Svetlana Yarosh. 2024. Democratizing the Ethics of Emerging Technologies for Children. Interactions 31, 5: 32–37. https://doi.org/10.1145/3686703 [[Full Text PDF]](https://www.dropbox.com/scl/fi/zizem18kxwi4amt6d1d5c/2024-interactions-ethics-vr-kids.pdf?rlkey=ssu6m87udp3qwqu0sjl4a745a&dl=0)
+
 Seraphina Yong, Leo Cui, Evan Suma Rosenberg, and Svetlana Yarosh. 2024. A Change of Scenery: Transformative Insights from Retrospective VR Embodied Perspective-Taking of Conflict With a Close Other. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 919, 1–18. https://doi.org/10.1145/3613904.3642146 [[Full Text PDF]](https://www.dropbox.com/scl/fi/225ixa5okrsak4kvenljr/2024-CHI-VR-perspective-taking.pdf?rlkey=74ggjdpacxzpilbmf4x9yommd&dl=0)
 
 Ye Yuan, Peter Genatempo, Qiao Jin, and Svetlana Yarosh. 2024. Field Trial of a Tablet-based AR System for Intergenerational Connections through Remote Reading. Proc. ACM Hum.-Comput. Interact. 8, CSCW 1, Article 205 (April 2024), 28 pages. https://doi.org/10.1145/3653696 [[Full Text PDF]](https://www.dropbox.com/s/dmuni1k94dbe4nw/2024%20CSCW%20-%20mentorship%20field%20trial.pdf?dl=0) <font style="font-weight:bold">[DEI Recognition Paper]</font>
