@@ -1,6 +1,16 @@
 Most recent list of publications is always available via [Google Scholar](https://scholar.google.com/citations?hl=en&user=n6bjh24AAAAJ&view_op=list_works&sortby=pubdate)
 
 #### 2025
+Matthew Zent, Seraphina Yong, Dhruv Bala, Stevie Chancellor, Joseph A. Konstan, Loren Terveen, and Svetlana Yarosh. 2025. Beyond the Individual: A Community-Engaged Framework for Ethical Online Community Research. Proc. ACM Hum.-Comput. Interact. 9, 7, Article CSCW379 (November 2025), 33 pages. [[Full Text PDF]](https://www.dropbox.com/scl/fi/vq6b21ru8nbbv5gwlmq83/2025-CSCW-community-ethics.pdf?rlkey=uv4xw2gfzjaqhbahq2l9jpmkr&dl=0) <font style="font-weight:bold">[Best Paper Award]</font>
+
+Seraphina Yong, Ashlee Milton, Evan Suma Rosenberg, Stevie Chancellor, and Svetlana Yarosh. 2025.  'I'm Petting the Laptop, Which Has You Inside It': Reflecting on Lived Experiences of Online Friendship. Proc. ACM Hum.-Comput. Interact. 9, 7, Article CSCW347 (November 2025), 33 pages. [[Full Text PDF]](https://www.dropbox.com/scl/fi/5ko2ognf022knpfsl4jmx/2025-CSCW-online-frienships.pdf?rlkey=7lp3ioddmbh6j9u8k3vaog1cj&dl=0) 
+
+Anjali Srivastava, Qiao Jin, Sabirat Rubya, Carrie Kistler, Diana Vuong, and Svetlana Yarosh. 2025. Assessing Disparities in Hybrid and Online-Only Local Support Communities. Proc. ACM Hum.-Comput. Interact. 9, 7, Article CSCW372 (November 2025), 29 pages. [[Full Text PDF]](https://www.dropbox.com/scl/fi/ncqfw8i1gxv6hp6b4kccf/2025-CSCW-assessing-disparities.pdf?rlkey=shs0hc4rjk12rznjqwhl31h52&dl=0)
+
+Zachary Levonian, Matthew Zent, Ngan Nguyen, Matthew McNamara, Loren Terveen, and Svetlana Yarosh. 2025. Peer Recommendation Interventions for Health-related Social Support: a Feasibility Assessment. Proc. ACM Hum.-Comput. Interact. 9, 2, Article CSCW146 (May 2025), 59 pages. [[Full Text PDF]](https://www.dropbox.com/scl/fi/l4x40rf1j2514xg7s0t1c/2025-CSCW-peer-health-recs.pdf?rlkey=421j3he9d0kv27cbyqa5i8191&dl=0) <font style="font-weight:bold">[Best Paper Award]</font>
+
+Alexis Tarter, Moyan Zhou, Svetlana Yarosh, and David DeLiema. 2025. “A River of Tears Is a Valid Answer?”: Social Science Graduate Students’ Experiences Learning Programming for Research. In Proceedings of the 25th Koli Calling International Conference on Computing Education Research (Koli Calling '25). Association for Computing Machinery, New York, NY, USA, Article 2, 1–12. [[Full Text PDF]](https://www.dropbox.com/scl/fi/rbduxq7b1hynaxskaoqjd/2025-Koli-non-major-computing.pdf?rlkey=xfyeu3s9409mu5cwyuy7nnoqt&dl=0) 
+
 Judith H. Danovitch, Adam K. Dubé, Cansu Oranç, Jessica Szczuka, and Svetlana Yarosh. 2025. Children’s Understanding and Use of Voice-Assistants: Opportunities and Challenges. In Handbook of Children and Screens: Digital Media, Development, and Well-Being from Birth Through Adolescence, Dimitri A. Christakis and Lauren Hale (eds.). Springer Nature Switzerland, Cham, 619–625. [[Full Text PDF]](https://www.dropbox.com/scl/fi/rir9wvljnbj33t1j0mam2/2025-Handbook-Children-and-Voice-Assistants.pdf?rlkey=h99x5up506fllfq1l7rlu4him&dl=0)
 
 #### 2024
@@ -10,7 +20,7 @@ Summer Schmuecker, Juan Pablo Hourcade, Meryl Alper, Jerry Alan Fails, Saba Kawa
 
 Seraphina Yong, Leo Cui, Evan Suma Rosenberg, and Svetlana Yarosh. 2024. A Change of Scenery: Transformative Insights from Retrospective VR Embodied Perspective-Taking of Conflict With a Close Other. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 919, 1–18. [[Full Text PDF]](https://www.dropbox.com/scl/fi/225ixa5okrsak4kvenljr/2024-CHI-VR-perspective-taking.pdf?rlkey=74ggjdpacxzpilbmf4x9yommd&dl=0)
 
-Ye Yuan, Peter Genatempo, Qiao Jin, and Svetlana Yarosh. 2024. Field Trial of a Tablet-based AR System for Intergenerational Connections through Remote Reading. Proc. ACM Hum.-Comput. Interact. 8, CSCW 1, Article 205 (April 2024), 28 pages. [[Full Text PDF]](https://www.dropbox.com/s/dmuni1k94dbe4nw/2024%20CSCW%20-%20mentorship%20field%20trial.pdf?dl=0) <font style="font-weight:bold">[DEI Recognition Paper]</font>
+Ye Yuan, Peter Genatempo, Qiao Jin, and Svetlana Yarosh. 2024. Field Trial of a Tablet-based AR System for Intergenerational Connections through Remote Reading. Proc. ACM Hum.-Comput. Interact. 8, CSCW 1, Article 205 (April 2024), 28 pages. 
 
 Qiao Jin, Yu Liu, Ye Yuan, Bo Han, Feng Qian, and Svetlana Yarosh. 2024. Virtual Reality, Real Pedagogy: A Contextual Inquiry of Instructor Practices with VR Video. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 665, 1–21. [[Full Text PDF]](https://www.dropbox.com/scl/fi/hqydzc5v5vknmcelpxe9r/2024-CHI-instructor-practices-with-VR.pdf?rlkey=ue3easrbgue205x32ttw6vcnl&dl=0)
 
